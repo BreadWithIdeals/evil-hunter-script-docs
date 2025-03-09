@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /markdown-examples
+      link: /quick-starter
     - theme: alt
       text: 加入GitHub完善文档
-      link: /api-examples
+      link: https://github.com/BreadWithIdeals/evil-hunter-script-docs
 
 features:
   - title: 功能丰富

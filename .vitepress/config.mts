@@ -15,8 +15,9 @@ export default defineConfig({
             {
                 text: '简介',
                 items: [
-                    { text: '快速上手', link: '/markdown-examples' },
-                    { text: '常见问题', link: '/problems' },
+                    { text: '快速上手', link: '/quick-starter' },
+                    { text: '常见问题', link: '/other/problems' },
+                    { text: '模块状态', link: '/other/module-status' },
                 ]
             },
             {
